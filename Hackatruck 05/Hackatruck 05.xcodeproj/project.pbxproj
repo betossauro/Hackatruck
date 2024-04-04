@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		477883112BBDC8C4002CC74F /* Hackatruck_05App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477883102BBDC8C4002CC74F /* Hackatruck_05App.swift */; };
+		477883132BBDC8C4002CC74F /* PlaylistPersona5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477883122BBDC8C4002CC74F /* PlaylistPersona5.swift */; };
+		477883152BBDC8C6002CC74F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 477883142BBDC8C6002CC74F /* Assets.xcassets */; };
+		477883182BBDC8C6002CC74F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 477883172BBDC8C6002CC74F /* Preview Assets.xcassets */; };
+		4778831F2BBDC9FC002CC74F /* Capas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4778831E2BBDC9FC002CC74F /* Capas.swift */; };
+		477883212BBDD75B002CC74F /* PlaylistPersona4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477883202BBDD75B002CC74F /* PlaylistPersona4.swift */; };
+		477883232BBDD7DC002CC74F /* PlaylistPersona3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477883222BBDD7DC002CC74F /* PlaylistPersona3.swift */; };
+		477883252BBDE40B002CC74F /* Musica.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477883242BBDE40B002CC74F /* Musica.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4778830D2BBDC8C4002CC74F /* Hackatruck 05.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hackatruck 05.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		477883102BBDC8C4002CC74F /* Hackatruck_05App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackatruck_05App.swift; sourceTree = "<group>"; };
+		477883122BBDC8C4002CC74F /* PlaylistPersona5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistPersona5.swift; sourceTree = "<group>"; };
+		477883142BBDC8C6002CC74F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		477883172BBDC8C6002CC74F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4778831E2BBDC9FC002CC74F /* Capas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capas.swift; sourceTree = "<group>"; };
+		477883202BBDD75B002CC74F /* PlaylistPersona4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistPersona4.swift; sourceTree = "<group>"; };
+		477883222BBDD7DC002CC74F /* PlaylistPersona3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistPersona3.swift; sourceTree = "<group>"; };
+		477883242BBDE40B002CC74F /* Musica.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Musica.swift; path = "Hackatruck 05/Musica.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4778830A2BBDC8C4002CC74F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		477883042BBDC8C4002CC74F = {
+			isa = PBXGroup;
+			children = (
+				477883242BBDE40B002CC74F /* Musica.swift */,
+				4778830F2BBDC8C4002CC74F /* Hackatruck 05 */,
+				4778830E2BBDC8C4002CC74F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4778830E2BBDC8C4002CC74F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4778830D2BBDC8C4002CC74F /* Hackatruck 05.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4778830F2BBDC8C4002CC74F /* Hackatruck 05 */ = {
+			isa = PBXGroup;
+			children = (
+				477883102BBDC8C4002CC74F /* Hackatruck_05App.swift */,
+				477883222BBDD7DC002CC74F /* PlaylistPersona3.swift */,
+				477883202BBDD75B002CC74F /* PlaylistPersona4.swift */,
+				477883122BBDC8C4002CC74F /* PlaylistPersona5.swift */,
+				4778831E2BBDC9FC002CC74F /* Capas.swift */,
+				477883142BBDC8C6002CC74F /* Assets.xcassets */,
+				477883162BBDC8C6002CC74F /* Preview Content */,
+			);
+			path = "Hackatruck 05";
+			sourceTree = "<group>";
+		};
+		477883162BBDC8C6002CC74F /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				477883172BBDC8C6002CC74F /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4778830C2BBDC8C4002CC74F /* Hackatruck 05 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4778831B2BBDC8C6002CC74F /* Build configuration list for PBXNativeTarget "Hackatruck 05" */;
+			buildPhases = (
+				477883092BBDC8C4002CC74F /* Sources */,
+				4778830A2BBDC8C4002CC74F /* Frameworks */,
+				4778830B2BBDC8C4002CC74F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Hackatruck 05";
+			productName = "Hackatruck 05";
+			productReference = 4778830D2BBDC8C4002CC74F /* Hackatruck 05.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		477883052BBDC8C4002CC74F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					4778830C2BBDC8C4002CC74F = {
+						CreatedOnToolsVersion = 15.3;
+					};
+				};
+			};
+			buildConfigurationList = 477883082BBDC8C4002CC74F /* Build configuration list for PBXProject "Hackatruck 05" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 477883042BBDC8C4002CC74F;
+			productRefGroup = 4778830E2BBDC8C4002CC74F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4778830C2BBDC8C4002CC74F /* Hackatruck 05 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4778830B2BBDC8C4002CC74F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				477883182BBDC8C6002CC74F /* Preview Assets.xcassets in Resources */,
+				477883152BBDC8C6002CC74F /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		477883092BBDC8C4002CC74F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				477883132BBDC8C4002CC74F /* PlaylistPersona5.swift in Sources */,
+				477883112BBDC8C4002CC74F /* Hackatruck_05App.swift in Sources */,
+				4778831F2BBDC9FC002CC74F /* Capas.swift in Sources */,
+				477883232BBDD7DC002CC74F /* PlaylistPersona3.swift in Sources */,
+				477883212BBDD75B002CC74F /* PlaylistPersona4.swift in Sources */,
+				477883252BBDE40B002CC74F /* Musica.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		477883192BBDC8C6002CC74F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4778831A2BBDC8C6002CC74F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4778831C2BBDC8C6002CC74F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Hackatruck 05/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "beto.Hackatruck-05";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4778831D2BBDC8C6002CC74F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Hackatruck 05/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "beto.Hackatruck-05";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		477883082BBDC8C4002CC74F /* Build configuration list for PBXProject "Hackatruck 05" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				477883192BBDC8C6002CC74F /* Debug */,
+				4778831A2BBDC8C6002CC74F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4778831B2BBDC8C6002CC74F /* Build configuration list for PBXNativeTarget "Hackatruck 05" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4778831C2BBDC8C6002CC74F /* Debug */,
+				4778831D2BBDC8C6002CC74F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 477883052BBDC8C4002CC74F /* Project object */;
+}
